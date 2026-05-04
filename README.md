@@ -1,6 +1,4 @@
-# 👨‍💻 Orenthail Davis
-
-### Senior Full Stack Engineer
+## Orenthail Davis | Senior Full Stack Engineer
 
 **📍 Austin, TX | 🎓 B.S. Computer Science**
 
