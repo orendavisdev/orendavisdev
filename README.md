@@ -1,26 +1,55 @@
-<h3 align="left">Programming Languages</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+# 👨‍💻 Orenthail Davis
 
-<h3 align="left">IDE</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-</p>
+### Senior Full Stack Engineer
 
-<h3 align="left">Tools</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/344/terraform.png" alt="terraform" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
-</p>
+**📍 Austin, TX | 🎓 B.S. Computer Science**
+
+> *"Simplicity is the soul of efficiency."*
+
+I am a **Full Stack Engineer** specializing in the design and implementation of large-scale enterprise applications. My core expertise lies in bridging the world of robust **Back-end Orchestration** (.NET & Java) with high-performance **Reactive Front-ends** (TypeScript). Based in the Texas tech hub, I focus on building software that is as maintainable as it is scalable.
+
+---
+
+### 🏛️ Engineering Philosophy
+
+*   **Polyglot Backend Design:** Equally fluent in the .NET ecosystem and Java/Spring Boot environment, allowing for flexible architectural decisions based on project-specific performance and infrastructure needs.
+*   **Strictly Typed Excellence:** Leveraging TypeScript to ensure frontend reliability, using design patterns like *Factory*, *Observer*, and *Singleton* to maintain clean code standards across the stack.
+*   **Cloud-First Mindset:** Focused on microservices architecture, containerization with Docker/Kubernetes, and CI/CD automation to accelerate delivery cycles.
+
+---
+
+### 🚀 Strategic Technical Stack
+
+
+| Area | Technologies |
+| :--- | :--- |
+| **Back-end Core** | .NET Core 8, C#, Java 17+, Spring Boot, Node.js |
+| **Front-end Web** | TypeScript, React, Angular, Next.js, Tailwind CSS |
+| **Architecture** | Microservices, RESTful APIs, GraphQL, Event-Driven Design |
+| **Data Layers** | SQL Server, PostgreSQL, Redis, MongoDB, EF Core, Hibernate |
+| **DevOps & Cloud** | Azure, AWS, Docker, Kubernetes, GitHub Actions, Jenkins |
+
+---
+
+### 🧪 Technical Deep Dive
+
+*   **Expertise in .NET Ecosystem:** Building secure, high-performance web APIs and services.
+*   **Expertise in Java Ecosystem:** Leveraging the power of Spring Boot for enterprise-grade scalability.
+*   **Expertise in TypeScript & Modern UX:** Creating type-safe, responsive, and intuitive user interfaces.
+
+---
+
+### 📖 Professional Focus & Research
+
+*   🔭 **Current Focus:** Optimizing cross-platform microservices communication and exploring **Agentic-AI frameworks** for automated testing.
+*   ⚡ **Performance:** Obsessed with reducing latency through distributed caching and efficient query indexing.
+*   🎓 **Foundation:** Applying rigorous Computer Science principles to solve complex industrial problems.
+
+---
+
+### 🛠️ Industry Interests
+
+*   **Energy & FinTech:** Deep interest in applying software engineering to complex logistics, energy management systems, and secure financial platforms.
+*   **System Modernization:** Converting legacy monolithic applications into modern, scalable microservice architectures without downtime.
+
+> *"Good code is its own best documentation."*
